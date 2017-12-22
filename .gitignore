@@ -1,0 +1,9 @@
+# Python binary
+*.pyc
+
+# IDE files
+.idea
+
+# Virtual environment
+venv
+
